@@ -24,3 +24,14 @@ font-size: 18px;
 line-height: 1.6;
 
   }
+  main {
+    width: 80 % ;
+    margin: auto ;
+  }
+
+  section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px
+  }
