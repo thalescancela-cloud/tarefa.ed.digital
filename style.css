@@ -2,6 +2,7 @@ body  {
     background-color: blue;
     color:aqua;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 header {
@@ -22,7 +23,22 @@ font-size: 36px;
   p{
 font-size: 18px;
 line-height: 1.6;
+nav {
+      margin-top:20px;
+}
+nav a {
+  color: white;
+  text-decoration: nome;
+  backgroud-color: #9b4d83;
+  padding: 10px 15 px;
+  border-radius: 8px;
+  margin: 5px;
+  display: incline-block;
 
+}
+nav a:hover {
+  backgroud-color: #c77dff
+}
   }
   main {
     width: 80 % ;
@@ -34,4 +50,17 @@ line-height: 1.6;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px
+  }
+  img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px:
+
+  }
+
+  figcaption{
+    text-align: center;
+    font-size
   }
