@@ -1,12 +1,12 @@
 body {
-  background-color: blue;
+  background-color: bisque;
   color: rgb(0, 17, 17);
   font-family: Arial, sans-serif;
   margin: 0;
 }
 
 header {
-  background-color: bisque;
+  background-color: black;
   color: antiquewhite;
   text-align: center;
   padding: 30px;
